@@ -14,4 +14,11 @@ Annie - 8:23pm to [end]
     homescreen html
     login html
     registration
-
+    user settings
+    profile photo
+    display name
+    email
+    phone number
+    username
+    password
+    financial info
