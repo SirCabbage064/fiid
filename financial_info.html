@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--AUTHOR: Annie Snyder-->
+<html>
+	<head>
+		<title>Edit Financial Information</title>
+	</head>
+
+	<body>
+        <!--
+            wireframe for layout - change?
+            add tricky buttons aka not something im doing at 10pm
+        -->
+		<h1>Financial Information</h1><br>
+        <p>Financial Information</p>
+        <button onclick=<a href="user_settings.html">Return to Settings</button><br><br>
+
+        <p>Enter new financial information:</p>
+        <form action="financial_info.html" method="post">
+            <label for="financialInfo">Routing Number:</label><br>
+            <input type="text" id="financialInfo" name="Routing Number"><br><br>
+
+            <label for="accountNumber">Account Number:</label><br>
+            <input type="text" id="accountNumber" name="Account Number"><br><br>
+            
+            <input type="submit" value="Submit">
+
+            <label for="reset">Disconnect Account?</label><br>
+            <input type="reset" value="Reset">
+        </form>
+	</body>
+</html>
