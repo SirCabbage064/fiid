@@ -1,1 +1,13 @@
+Here's the basic set up so you don't have to type it every time
+<!DOCTYPE html>
+<!--AUTHOR: [name]-->
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		
+	</body>
+</html>
+
 Annie - 8:23pm to [end]
