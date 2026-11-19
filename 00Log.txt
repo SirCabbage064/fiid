@@ -13,5 +13,5 @@ Here's the basic set up so you don't have to type it every time
 Annie - 8:23pm to [end]
     homescreen html
     login html
-    
+    registration
 
