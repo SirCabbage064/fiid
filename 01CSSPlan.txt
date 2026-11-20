@@ -8,6 +8,8 @@ food map - hover effects/clickable?
 general classes/basic stuff
 add gif and sound to 404 page
 
+HEY DUMBASS HERE'S THE FIX FOR THE BUTTONS: <a href="user_settings.html" class="btn">Return to Settings</a>
+
 COLOR PALLET/FONT:
 Light theme:
   Background: #d6c8b1
