@@ -2,6 +2,8 @@ AUTHORS: Annie Snyder & Elliott Clark
 Here's the CSS Plan:
 Center EVERYTHING
 user_settings in flexbox for differences
+Nav bar - anchored to top of the page
+img tag - universal? ids?
 
 COLOR PALLET:
 Light theme:
