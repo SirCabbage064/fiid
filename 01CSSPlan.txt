@@ -4,9 +4,21 @@ Center EVERYTHING
 user_settings in flexbox for differences
 Nav bar - anchored to top of the page
 img tag - universal? ids?
+food map - hover effects/clickable?
+general classes/basic stuff
 
-COLOR PALLET:
+COLOR PALLET/FONT:
 Light theme:
   Background: #d6c8b1
   Text MAIN: #402615
   Other colors/accents: #7d5e3c / #878679 / #bea683
+
+Dark theme:
+  Background:
+  Text: 
+  Other colors/accents: 
+
+Font:
+  Headers: Noto Serif
+  Body: Noto Sans
+  Weight: normal/light
