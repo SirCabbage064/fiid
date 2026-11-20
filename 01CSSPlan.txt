@@ -4,3 +4,7 @@ Center EVERYTHING
 user_settings in flexbox for differences
 
 COLOR PALLET:
+Light theme:
+  Background: #d6c8b1
+  Text MAIN: #402615
+  Other colors/accents: #7d5e3c / #878679 / #bea683
