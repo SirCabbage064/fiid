@@ -6,6 +6,7 @@ Nav bar - anchored to top of the page
 img tag - universal? ids?
 food map - hover effects/clickable?
 general classes/basic stuff
+add gif and sound to 404 page
 
 COLOR PALLET/FONT:
 Light theme:
